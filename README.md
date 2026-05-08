@@ -12,20 +12,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=railsonalb021&show_icons=true&theme=tokyonight&border_radius=12"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railsonalb021&layout=compact&theme=tokyonight&border_radius=12"/>
-
-</div>
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/railson-albino-40785b259/?skipRedirect=true])

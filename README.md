@@ -28,7 +28,7 @@
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/railson-albino](https://www.linkedin.com/in/railson-albino-40785b259/?skipRedirect=true)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/railson-albino-40785b259/?skipRedirect=true])
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:railsonaov@gmail.com)
 
